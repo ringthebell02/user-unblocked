@@ -1,7 +1,10 @@
-## Welcome to user@unblocked
+# Welcome to user@unblocked
 A website dedicated to unblocked thingies at school.
 Please fork this project to prevent blocking.
 Also PLEASE recommend items for the page. Make sure to include links. You can either fill out our google form or post the suggestion in issues.
+# I am currently having issues updating the site due to the editor I use, GrapesJS. Please be patient and check the Google Doc for new sites.
+# Link to site:
+https://ringthebell02.github.io/user-unblocked/
 # EaglerCraft (In beta)
 EaglerCraft is currently in its testing phase. To use it currently, go to https://ringthebell02.github.io/user-unblocked/thecraft_test
 
