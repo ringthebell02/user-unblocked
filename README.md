@@ -22,4 +22,4 @@ I was not the person to find the links to the films. I pay for all streaming ser
 # Games
 These games were found on various websites. I am simply creating a list of them.
 # AI
-The only "decent" AI that I have found that is unblocked (at least on my school's network) is Microsoft CoPilot. I keep forgeting to change the link from ChatGPT to Copilot. Again, suggestions are appreciated.
+I have now found 2 AI models that aren't blocked (at least not on my network). Microsoft Copilot and Proton Lumo. Make a free account at Proton, and you'll have access to their AI model, as well as other privacy-oriented features, like encrypted email, cloud storage, etc. I am currently making the switch to proton services actually.
